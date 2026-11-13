@@ -1,2 +1,2 @@
 # xiao-schematics
-Contains all Seeed Studio XIAO schematics and footprints
+Contains all Seeed Studio XIAO boards schematics and footprints
